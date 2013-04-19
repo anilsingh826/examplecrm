@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  field_role: 1
+  model_name: MyString
+  type: 
+  name: MyString
+
+two:
+  field_role: 1
+  model_name: MyString
+  type: 
+  name: MyString
